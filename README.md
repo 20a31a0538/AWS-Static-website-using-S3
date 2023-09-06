@@ -1,19 +1,29 @@
 # ✨ AWS-Static-website-using-S3 ✨
 **Steps to be followed:**
-1. create a Bucket.
-2. Store files into Amazon S3 bucket
+1. Create a Bucket.
+2. Store files in an Amazon S3 bucket
 3. Enable static website hosting
 
 **Procedure:**
 
 **Step-1:**
-          Create a Bucket.
-          ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/b80f7e1b-a6ae-4ac9-a51e-0cad6cca430d)
+
+
+
+### Create a Bucket.- 
+
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/5b46fc16-05cb-4969-a67c-702d0c4c0109)
+
 
 
 **Step-2:**
-          Store files in the Amazon S3 bucket
-          1.![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/8eb231c5-2d93-4605-a835-fa09c1115621)
+
+
+
+### Store files into Amazon S3 bucket - 
+
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/d2b4910f-7efe-4c14-a3a4-5b5fd113f0e8)
+
 
 
 **Step-3:**
