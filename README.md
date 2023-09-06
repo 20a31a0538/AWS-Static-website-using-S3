@@ -17,17 +17,24 @@
 
 
 **Step-3:**
-          Enable static website hosting
 
-          1.![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/4c4c3f86-8df0-4d02-add9-f91cc54eb3aa)
-          
-          2. Give a bucket policy: go to permissions
-          
-          3. ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/4f1d1906-d2a1-474f-9226-9c551f281145)
-          
-          Open the static website:  click on OPEN.
-          
-          ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/0ff92311-3908-4ce9-a266-d0eea3152388)
+
+
+### Enable static website hosting - 
+
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/362fad62-e607-4cd5-8efa-29050ea207de)
+
+
+
+### Give a bucket policy: go to permissions -
+
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/50b55537-99b1-4d55-adce-156f74f07ca6)
+
+
+### Open the static website:  click on OPEN. -
+
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/3627db70-d54e-4841-af5f-5bcdc81898bf)
+
 
 
 ## Static website:
