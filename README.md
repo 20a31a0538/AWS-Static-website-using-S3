@@ -8,6 +8,8 @@
 
 **Step-1:**
           create a Bucket.
+
+          
           1.![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/b80f7e1b-a6ae-4ac9-a51e-0cad6cca430d)
 
 
@@ -28,11 +30,9 @@
 
 
 **Static website:**
-![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/c0f9d3ea-2af9-41e8-9350-79d38e7f7092)
-
-![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/8b25c5ae-ff12-4aca-818f-63a25cbb9c18)
-
-![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/26de5b4f-a682-4061-866a-77377920100e)
+         1. ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/c0f9d3ea-2af9-41e8-9350-79d38e7f7092)
+         2. ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/8b25c5ae-ff12-4aca-818f-63a25cbb9c18)
+         3. ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/26de5b4f-a682-4061-866a-77377920100e)
 
 
 
