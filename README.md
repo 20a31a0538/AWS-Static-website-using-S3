@@ -30,11 +30,27 @@
           ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/0ff92311-3908-4ce9-a266-d0eea3152388)
 
 
-**Static website:**
+## Static website:
 
-         1. ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/c0f9d3ea-2af9-41e8-9350-79d38e7f7092)
-         2. ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/8b25c5ae-ff12-4aca-818f-63a25cbb9c18)
-         3. ![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/26de5b4f-a682-4061-866a-77377920100e)
+
+
+### Home - 
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/1e16472c-3143-499f-8162-dc8f0fde78a2)
+
+
+
+
+### Education -
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/3e0725b5-6501-47ba-8a80-58c3ecb2eb3d)
+
+
+
+
+### Get in touch -
+
+![image](https://github.com/20a31a0538/AWS-Static-website-using-S3/assets/110081197/1ca926e7-81e8-468e-af9b-39031b91aedc)
+
+
 
 
 
